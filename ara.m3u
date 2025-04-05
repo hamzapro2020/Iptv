@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SSC" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="News",SSC FHD
+#EXTINF:-1 tvg-id="SSC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-arabic-mea.png="News",BEIN NEWS FHD
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",BEIN SPORTS 4K
-https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png" group-title="News",BEIN SPORTS 4K
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:88:0b:ef&stream=534236&extension=m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV
