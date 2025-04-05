@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SSC" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="News",SSC FHD
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",AL24 News
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+#EXTINF:-1 tvg-id="test" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",BEIN SPORTS 4K
+https://wo.cma.footballii.ir/hls2/b1_mid.m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Music",AlbKanale Music TV
