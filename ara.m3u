@@ -1,28 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="beINSports1" tvg-name="beIN Sports 1" group-title="Sports",beIN Sports 1
+#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
+0.0.0.0
+#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/contet/x/Mp/1/Poster.png" group-title="", اBEIN SPORT1
 http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112368.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2" group-title="Sports",beIN Sports 2
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112367.m3u8
-
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" group-title="Sports",beIN Sports 3
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112366.m3u8
-
-#EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" group-title="Sports",beIN Sports 4
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112365.m3u8
-
-#EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" group-title="Sports",beIN Sports 5
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132053.m3u8
-
-#EXTINF:-1 tvg-id="beINSports6" tvg-name="beIN Sports 6" group-title="Sports",beIN Sports 6
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
-
-#EXTINF:-1 tvg-id="beINSports7" tvg-name="beIN Sports 7" group-title="Sports",beIN Sports 7
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112362.m3u8
-
-#EXTINF:-1 tvg-id="beINSports8" tvg-name="beIN Sports 8" group-title="Sports",beIN Sports 8
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132054.m3u8
-
-#EXTINF:-1 tvg-id="beINSports9" tvg-name="beIN Sports 9" group-title="Sports",beIN Sports 9
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132058.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" ,الأردنية الرّياضية
