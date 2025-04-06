@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png",BEIN SPORT 1 HD
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112368.m3u8
+http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112368.m3u8
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="", BEIN SPORT 2 FHD 
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112367.m3u8
+http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112367.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-english-mea.png" ,BEIN SPORT 3 HD
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112366.m3u8
+http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112366.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" ,BEIN SPORT 4 FHD
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112365.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" , BEIN SPORT 5
