@@ -26,8 +26,8 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDCha
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" ,أبو ظبي الرياضية 2
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/star-movies-mea.png" ,BEIN SPORT 9
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132058.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/star-movies-mea.png" ,BEIN STAR
+https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132058.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" ,ماجد
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://baynounah.ae/images/logo.png" ,بينونة
