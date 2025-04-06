@@ -1,25 +1,25 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",BEIN SPORT 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png",BEIN SPORT 1 HD
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112368.m3u8
-#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", BEIN SPORT 2 FHD 
+#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="", BEIN SPORT 2 FHD 
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112367.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" ,BEIN SPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-english-mea.png" ,BEIN SPORT 3 HD
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112366.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,BEIN SPORT 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" ,BEIN SPORT 4 FHD
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112365.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://royanews.tv/images/site/logo.png" , BEIN SPORT 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" , BEIN SPORT 5
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132053.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
-https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,BEIN SPORT 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,BEIN SPORT 6
+https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,BEIN SPORT 6 2
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",BEIN SPORT 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-7-mea.png",BEIN SPORT 7
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112362.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,BEIN SPORT 8
+"https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,BEIN SPORT 8
 https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132054.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-drama-1-mea.png" ,أبوظبي
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5ff6eb7f11.png" ,ناشيونال جيوغرافيك أبو ظبي
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png" ,أبو ظبي الرياضية 1
