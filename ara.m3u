@@ -80,22 +80,19 @@ https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/MBC3_logo.png", MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/National_Geographic_Abu_Dhabi_logo.png", National Geographic Abu Dhabi (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFl1syreltFgbx-VQeK5IufaNWicJdAGDaiQngVkUdwA&s", National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Noor_Dubai_logo.png", Noor Dubai (1080p)
+#EXTINF:-1 tvg-logo="https://www.ntd-ngonetwork.org/noor-dubai", Noor Dubai (1080p)
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/PMC_logo.png", PMC (1080p)
+#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg", PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Watar_Radio_logo.png", Watar Radio (1080p)
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257113g.png", Watar Radio (1080p)
 https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Yas_TV_logo.png", Yas TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zee_Aflam_logo.png", Zee Aflam (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b5/Logo_Zee_Aflam_2011.png", Zee Aflam (720p) [Geo-blocked]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B2%D9%8A_%D8%A3%D9%84%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%85%D8%AF_%D9%85%D9%86%D8%B0_2018.png", Zee Alwan (720p) [Geo-blocked]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
