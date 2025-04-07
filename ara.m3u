@@ -1,85 +1,61 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-1-english-mea.png",BEIN SPORT 1 HD
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112368.m3u8
-#EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-2-english-mea.png" group-title="", BEIN SPORT 2 FHD 
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112367.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-3-english-mea.png" ,BEIN SPORT 3 HD
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112366.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-4-mea.png" ,BEIN SPORT 4 FHD
-http://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132053.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-5-mea.png" , BEIN SPORT 5
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/132053.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,BEIN SPORT 6
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-middle-east/bein-sports/bein-sports-6-mea.png" ,BEIN SPORT 6 2
-https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ssc_sports.png/1600px-Ssc_sports.png", SSC HD
-https://stream.sainaertebat.com/hls2/ssc1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-tv-ae.png", Abu Dhabi Aloula (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_QuyNgwlsOT78r5UXSIr9N2g_ZnNNuXwykvoB1KHtQ&s", Abu Dhabi Emirates (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 1 (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/abu-dhabi-sports-tv-ae.png", Abu Dhabi Sports 2 (1080p)
-https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/ajman-tv-ae.png", Ajman TV (1080p)
-https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/al-arabiya-ae.png", Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/al-arabiya-ae.png", Al Arabiya (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhquwomokm9n74ywZG8wouDqM4vcyejGY24Q&s", Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/9d/Al_Dafrah_TV_logo.png", Al Dafrah TV (720p)
-https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/1/18/Al_Mashhad.png", Al Mashhad (1080p)
-https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/c/c0/Al_Qamar_TV_logo.png", Al Qamar TV (1080p)
-https://streamer3.premio.link/alqamar/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/95/Al_Sharqiya_Min_Kabla_logo.png", Al Sharqiya Min Kabla (1080p)
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Al_Wousta_TV_logo.png", Al Wousta TV (1080p)
-https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/0d/Al_Yaum_TV_logo.png", Al Yaum TV (1080p)
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/7/7e/Al_Arabiya_logo_2019.png", Alarabiya (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/baynounah-tv-ae.png", Baynounah TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
-#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/4/47/CNBC_Arabiya_logo.png", CNBC Arabiya (1080p)
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-one-ae.png", Dubai One (1080p)
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-racing-tv-ae.png", Dubai Racing (1080p)
-https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-racing-tv-ae.png", Dubai Racing 2 (1080p)
-https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png", Dubai Sports 1 (1080p)
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/dubai-sports-tv-ae.png", Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/sharjah-tv-ae.png", Fujairah TV (720p)
-https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/majid-tv-ae.png", Majid TV (1080p)
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-1-ae.png", MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-2-ae.png", MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-3-ae.png", MBC 3 KSA (1080p)
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/national-geographic-abu-dhabi-ae.png", National Geographic Abu Dhabi (1080p) [Geo-blocked]
-https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/noor-dubai-ae.png", Noor Dubai (1080p)
-https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="hhttps://upload.wikimedia.org/wikipedia/en/1/1f/Persian_Media_Corporation.jpg", PMC (1080p)
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s257113g.png", Watar Radio (1080p)
-https://svs.itworkscdn.net/smcwatarlive/smcwatar/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b5/Logo_Zee_Aflam_2011.png", Zee Aflam (720p) [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%B2%D9%8A_%D8%A3%D9%84%D9%88%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D8%B9%D8%AA%D9%85%D8%AF_%D9%85%D9%86%D8%B0_2018.png", Zee Alwan (720p) [Geo-blocked]
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/mbc-maser-2-ae.png", mbc maser (1080p)
-https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-name="MA: AFLAM MAROC 7 HEVC" tvg-logo="https://orientplus.net/wp-content/uploads/2016/05/arton18469.png" group-title="Morocco",MA: AFLAM MAROC 7 HEVC
+http://119289414143999003.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999003.ts
+#EXTINF:-1 tvg-name="MA: AL AOULA LAAYOUNE FHD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/laayoune-tv.png" group-title="Morocco",MA: AL AOULA LAAYOUNE FHD
+http://119289414143999004.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999004.ts
+#EXTINF:-1 tvg-id="alaoula.ma" tvg-name="MA: AL AOULA SD" tvg-logo="https://i.pinimg.com/originals/68/27/55/682755e7d0e3c4483688b738e47c23fc.png" group-title="Morocco",MA: AL AOULA SD
+http://119289414143999006.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999006.ts
+#EXTINF:-1 tvg-id="almaghribia.ma" tvg-name="MA: AL MAGHRIBIA SD" tvg-logo="http://www.tv-arab.net/Logos/logo_tv_ss_snrt_5_almaghribya.png" group-title="Morocco",MA: AL MAGHRIBIA SD
+http://119289414143999008.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999008.ts
+#EXTINF:-1 tvg-name="MA: AL ONS TV SD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_ons_tv_ma.png" group-title="Morocco",MA: AL ONS TV SD
+http://119289414143999009.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999009.ts
+#EXTINF:-1 tvg-name="MA: ARRIADIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="Morocco",MA: ARRIADIA FHD
+http://119289414143999010.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999010.ts
+#EXTINF:-1 tvg-name="MA: ATHAQAFIA FHD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SNRTAThaqafia.png" group-title="Morocco",MA: ATHAQAFIA FHD
+http://119289414143999014.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999014.ts
+#EXTINF:-1 tvg-name="MA: CANAL ATLAS FHD" tvg-logo="https://1.bp.blogspot.com/-JS6tyZcX23c/VmShgEhHoII/AAAAAAAAAyQ/TycMwBrtxpo/s1600/Canal_Atlas_Maroc.png" group-title="Morocco",MA: CANAL ATLAS FHD
+http://119289414143999017.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999017.ts
+#EXTINF:-1 tvg-name="MA: CHADA TV SD" tvg-logo="https://chadatv.com/wp-content/themes/chadatv/images/OpenGraphMin.png" group-title="Morocco",MA: CHADA TV SD
+http://119289414143999018.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999018.ts
+#EXTINF:-1 tvg-name="MA: M+ 24 SD" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/47/bf/b2/47bfb227-ade7-0338-6c88-5c27a8aff91c/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/246x0w.png" group-title="Morocco",MA: M+ 24 SD
+http://119289414143999020.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999020.ts
+#EXTINF:-1 tvg-name="MA: MBC 5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" group-title="Morocco",MA: MBC 5 FHD
+http://119289414143999021.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999021.ts
+#EXTINF:-1 tvg-name="MA: MBC 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" group-title="Morocco",MA: MBC 5 HD
+http://119289414143999022.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999022.ts
+#EXTINF:-1 tvg-name="MA: MBC 5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" group-title="Morocco",MA: MBC 5 SD
+http://119289414143999023.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999023.ts
+#EXTINF:-1 tvg-name="MA: MEDI1 TV AFRIQUE SD" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/28/20160428201042-d7f0d8d8.png" group-title="Morocco",MA: MEDI1 TV AFRIQUE SD
+http://119289414143999024.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999024.ts
+#EXTINF:-1 tvg-name="MA: MEDI1 TV ARABIA SD" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/28/20160428201042-d7f0d8d8.png" group-title="Morocco",MA: MEDI1 TV ARABIA SD
+http://119289414143999025.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999025.ts
+#EXTINF:-1 tvg-name="MA: MEDI1 TV MAGHREB SD" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/28/20160428201042-d7f0d8d8.png" group-title="Morocco",MA: MEDI1 TV MAGHREB SD
+http://119289414143999027.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999027.ts
+#EXTINF:-1 tvg-name="MA: TAMAZIGHT SD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tamazight-tv-chaine.png" group-title="Morocco",MA: TAMAZIGHT SD
+http://119289414143999033.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/999033.ts
+#EXTINF:-1 tvg-name="MA: MT TV CINEMA FHD" tvg-logo="https://stop.mttv.ma/plugindata/stop.mttv.ma/main/images/galleries/gerermesabonnements/mttv.ma-logo.1128-10.png" group-title="Morocco",MA: MT TV CINEMA FHD
+http://1192894141431008682.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1008682.ts
+#EXTINF:-1 tvg-name="MA: MT TV DRAMA FHD" tvg-logo="https://stop.mttv.ma/plugindata/stop.mttv.ma/main/images/galleries/gerermesabonnements/mttv.ma-logo.1128-10.png" group-title="Morocco",MA: MT TV DRAMA FHD
+http://1192894141431008683.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1008683.ts
+#EXTINF:-1 tvg-name="MA: MT TV MIX FHD" tvg-logo="https://stop.mttv.ma/plugindata/stop.mttv.ma/main/images/galleries/gerermesabonnements/mttv.ma-logo.1128-10.png" group-title="Morocco",MA: MT TV MIX FHD
+http://1192894141431008684.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1008684.ts
+#EXTINF:-1 tvg-name="MA: MT TV MOVIE FHD" tvg-logo="https://stop.mttv.ma/plugindata/stop.mttv.ma/main/images/galleries/gerermesabonnements/mttv.ma-logo.1128-10.png" group-title="Morocco",MA: MT TV MOVIE FHD
+http://1192894141431008685.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1008685.ts
+#EXTINF:-1 tvg-name="MA: MTV CLASSIC FHD" tvg-logo="https://stop.mttv.ma/plugindata/stop.mttv.ma/main/images/galleries/gerermesabonnements/mttv.ma-logo.1128-10.png" group-title="Morocco",MA: MTV CLASSIC FHD
+http://1192894141431008686.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1008686.ts
+#EXTINF:-1 tvg-id="2mmaroc.ma" tvg-name="MA: 2M SD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/2M_Maroc_color.png" group-title="Morocco",MA: 2M SD
+http://1192894141431011996.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1011996.ts
+#EXTINF:-1 tvg-name="MA: AL AOULA LAAYOUNE SD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/laayoune-tv.png" group-title="Morocco",MA: AL AOULA LAAYOUNE SD
+http://1192894141431011998.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1011998.ts
+#EXTINF:-1 tvg-id="assadissatv.ma" tvg-name="MA: ASSADISSA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png" group-title="Morocco",MA: ASSADISSA SD
+http://1192894141431012001.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1012001.ts
+#EXTINF:-1 tvg-id="medi1tv.ma" tvg-name="MA: MEDI1 TV ARABIC SD" tvg-logo="http://www.ass-media.de/pic/upload/2016/04/28/20160428201042-d7f0d8d8.png" group-title="Morocco",MA: MEDI1 TV ARABIC SD
+http://1192894141431015489.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1015489.ts
+#EXTINF:-1 tvg-id="alaoula.ma" tvg-name="MA: AL AOULA FHD" tvg-logo="https://i.pinimg.com/originals/68/27/55/682755e7d0e3c4483688b738e47c23fc.png" group-title="Morocco",MA: AL AOULA FHD
+http://1192894141431018076.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1018076.ts
+#EXTINF:-1 tvg-id="assadissatv.ma" tvg-name="MA: ASSADISSA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png" group-title="Morocco",MA: ASSADISSA FHD
+http://1192894141431018077.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1018077.ts
+#EXTINF:-1 tvg-name="MA: ATHAQAFIA SD" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SNRTAThaqafia.png" group-title="Morocco",MA: ATHAQAFIA SD
+http://1192894141431018078.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1018078.ts
+#EXTINF:-1 tvg-name="MA: ARRIADIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/31/Logo_arryadia.png" group-title="Morocco",MA: ARRIADIA SD
+http://1192894141431020414.pnmgu.xyz:80/live/hu310596/vdYRpsbmb9NQ/1020414.ts
