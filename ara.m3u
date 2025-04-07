@@ -17,19 +17,19 @@ https://magmaott.tv:1991/live/ZPVG8Bq31r/cotp38A38Z/112363.m3u8
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7IRorO.jpeg", Abu Dhabi Aloula (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Abu_Dhabi_Emirates_logo.png", Abu Dhabi Emirates (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy_QuyNgwlsOT78r5UXSIr9N2g_ZnNNuXwykvoB1KHtQ&s", Abu Dhabi Emirates (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimediaorg/wikipedia/commons/thumb/e/e0/Abu_Dhabi_Sports_logo.svg/1200px-Abu_Dhabi_Sports_logo.svg.png", Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThi_1w8Zc2xL0CjQ1pM-MAMqG1e_AM1rfO18jMn5kgOQ&s", Abu Dhabi Sports 1 (1080p)
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Abu_Dhabi_Sports_2_logo.svg", Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-tv-ae.svg", Abu Dhabi Sports 2 (1080p)
 https://tr-live-route.adm.tcon.hlit.hvds.tv/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Ajman_TV_Logo.png", Ajman TV (1080p)
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajman-tv-ae.png", Ajman TV (1080p)
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Al_Arabiya_logo_2019.png", Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Al_Arabiya_logo_2019.png", Al Arabiya (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Al_Arabiya_Business_logo.svg", Al Arabiya Business (1080p)
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/6fd499eeba3d2e608fc9e36e39c2dabc9981302eb632a23ceb35ea3f234f1eed/68747470733a2f2f692e696d6775722e636f6d2f53766a553468362e706e67", Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Al_Dafrah_TV_logo.png", Al Dafrah TV (720p)
 https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
@@ -63,11 +63,11 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunkli
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Majid_TV_logo.png", Majid TV (1080p)
 https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/MBC1_logo.png", MBC 1 (1080p)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe16a-zWV2vG21EYkhP4o6U6WtTbpYJNazaAtyHKl81A&s", MBC 1 (1080p)
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/MBC2_logo.png", MBC 2 (480p)
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/57ced2001fac9f108a664cbb478c8eb04f22b9c053bfd8200ca778392a1eec27/68747470733a2f2f692e696d6775722e636f6d2f6e396d534875502e706e67, MBC 2 (480p)
 https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/MBC3_logo.png", MBC 3 KSA (1080p)
+#EXTINF:-1 tvg-logo="https://camo.githubusercontent.com/29d4fe48c1c33efb82a62eab711d122a1dc2e455f04fe5d86b89a0063c9566eb/68747470733a2f2f692e696d6775722e636f6d2f505674384f504e2e706e67", MBC 3 KSA (1080p)
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFl1syreltFgbx-VQeK5IufaNWicJdAGDaiQngVkUdwA&s", National Geographic Abu Dhabi (1080p) [Geo-blocked]
 https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8
